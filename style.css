@@ -78,7 +78,13 @@
     background-color: #1F2937;
     color: white;
 }
-
+.image-link {
+    display: flex ;
+    background-color: grey;
+    height: 200px;
+    width: 300px;
+    align-items: center;
+}
 .items2 {
     display: flex;
     height: 60px;
